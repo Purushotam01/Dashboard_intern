@@ -19,17 +19,6 @@ Backend: (If applicable, mention e.g., Node.js, Flask, etc.)
 
 Tools: VS Code, Git, GitHub
 
-## Folder Structure
-bash
-Copy
-Edit
-Dashboard_intern/
-├── assets/              # Static files like CSS, JS, images
-├── data/                # Sample or real datasets used in the dashboard
-├── scripts/             # JavaScript files
-├── index.html           # Main HTML file
-├── README.md            # Project documentation
-└── ...
 ## How to Run
 Clone the repository:
 
