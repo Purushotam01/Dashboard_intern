@@ -11,11 +11,7 @@ Charts and graphs for effective data visualization
 Modular code structure for easy maintenance
 
 ## Technologies Used
-Frontend: HTML, CSS, JavaScript
-
-Visualization: Chart.js / D3.js (or specify the exact library used)
-
-Backend: (If applicable, mention e.g., Node.js, Flask, etc.)
+Frontend: flutter
 
 Tools: VS Code, Git, GitHub
 
